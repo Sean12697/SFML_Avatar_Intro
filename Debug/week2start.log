@@ -1,0 +1,4 @@
+﻿  Avatar.cpp
+c:\users\seand\documents\uni\workshops\c++\intro-to-c-plus-plus-master\week2start\avatar.cpp(84): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  week2start.vcxproj -> C:\Users\seand\Documents\Uni\Workshops\C++\intro-to-c-plus-plus-master\week2start\Debug\week2start.exe
+  week2start.vcxproj -> C:\Users\seand\Documents\Uni\Workshops\C++\intro-to-c-plus-plus-master\week2start\Debug\week2start.pdb (Full PDB)
